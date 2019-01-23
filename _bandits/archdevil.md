@@ -32,3 +32,9 @@ Besides these stats, Archdevil’s advantage is its ability to spawn freely in t
 The more units Archdevil can stun, the quicker it dies. Because all enemy damage will focus on Archdevil after its ability is triggered.
 
 Overall, Archdevil is the pioneer, good for combat setting during the first waves. It is also an effective support, increasing viability for other friendly units if they get stunned.
+
+## How to use ##
+
+
+Either you use him as an extra tank or an extra stun at your towers.
+You can even use him to get your bandits some more hits in before the opponents guardians reaches you.
